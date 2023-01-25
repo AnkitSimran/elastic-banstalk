@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			The Dream Hotel
+			Calgary Hotel
 		</title>
 	</head>
 	<style>
