@@ -234,10 +234,10 @@
 		<ul>
 			<li><a href="index.php">HOME</a>
 			<li><a href="admin_login.php">ADMIN LOGIN</a></li>
-			<li><a href="user_login.php">USER LOGIN</a></li>
-			<li><a href="#rooms_and_rates">ROOM GALLERY</a></li>
-			<li><a href="image_gallery.php">IMAGE GALLERY</a>
-			<li style="float: right;"><a href="#contact">Contact Details</a></li>
+			<li><a href="user_login.php">CUSTOMER LOGIN</a></li>
+			<li><a href="#rooms_and_rates">ROOM RATES</a></li>
+			<li><a href="image_gallery.php">HOTEL's IMAGES</a>
+			<li style="float: right;"><a href="#contact">Contact TO US</a></li>
 		</ul>
 
 		<div class="slideshow-container">
